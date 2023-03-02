@@ -8,7 +8,7 @@ inbounds:
   protocol: trojan
   settings:
     clients:
-    - password: "5f6aa1ad-f81e-493a-b58d-e413eba82b8a"
+    - password: "205cd877-ac0a-4689-a48d-306e8692134b"
   streamSettings:
     network: ws
     wsSettings:
